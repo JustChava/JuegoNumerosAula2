@@ -1,0 +1,1 @@
+Este programa es un juego de buscar el numero secreto, se tienen todas las oportunidades posibles, y las jugadas consecuentes ya no podran tener como resultado los numeros generados anteriormente hasta agotar los primeros diez numeros naturales
